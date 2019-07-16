@@ -1,4 +1,4 @@
-package hbcu.stay.ready.mastering_loops;
+/*package hbcu.stay.ready.mastering_loops;
 
 import org.junit.runner.RunWith;
 import org.junit.runners.Suite;
@@ -13,3 +13,4 @@ import org.junit.runners.Suite;
 })
 public class TestSuite {
 }
+ */
